@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./banner.jpg" alt="banner" />
 </div>
 
@@ -97,4 +97,4 @@ JavaScript, PostgreSQL & ....<br>
 ## 📊 GitHub Stats
 ![](https://github-contributor-stats.vercel.app/api?username=arvinmaroufi&limit=5&theme=holi&combine_all_yearly_contributions=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
