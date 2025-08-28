@@ -1,17 +1,16 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1549497040-7e04047a06ed?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dark Red Purple Abstract" style="width:100%; height:auto; border-radius:12px;"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&pause=1000&color=BE0032&center=true&vCenter=true&width=500&lines=Greetings,+I'm+Arvin.;A+Web+Enthusiast.;Building+beautiful+interfaces." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Arvin%20Maroufi&fontSize=90&animation=twinkling&fontColor=fff&desc=Front-End%20Engineer&descAlign=70&descColor=darkgray" alt="Header" />
 </div>
 
 <br>
 
-<h3 align="center">I craft digital experiences with elegance and precision.</h3>
+<h2 align="center">Building delightful experiences, one pixel at a time. 🎨</h2>
 
 ---
 
-## 🚀 About My Journey
+## 🚀 About Me
 
-I am a passionate **Front-End Engineer** dedicated to building immersive and intuitive web experiences. My work is a blend of art and logic, focusing on transforming complex ideas into clean, high-performance, and visually stunning user interfaces. I believe in continuous learning and applying a user-centric approach to every line of code I write.
+I'm a dedicated **Front-End Engineer** with a passion for creating clean, elegant, and user-centric web applications. My work is a blend of aesthetics and functionality, driven by a commitment to writing high-quality, scalable code. I'm constantly learning and embracing new challenges to build the future of the web.
 
 ---
 
@@ -23,7 +22,7 @@ I am a passionate **Front-End Engineer** dedicated to building immersive and int
 
 ---
 
-## 📊 Performance & Analytics
+## 📊 My GitHub Journey
 
 <div align="center">
   <picture>
@@ -37,24 +36,39 @@ I am a passionate **Front-End Engineer** dedicated to building immersive and int
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </div>
   
   <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=ocean_dark&hide_border=true&langs_count=6" alt="Top Languages" />
   </div>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=redflat" alt="GitHub Trophies" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=ocean_dark&hide_border=true" alt="GitHub Streak Stats" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=onedark" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🤝 Connect & Collaborate
+## ⏳ My Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&theme=ocean_dark&hide_border=true" alt="Latest Activity" />
+</div>
+
+<div align="center">
+  <a href="https://wakatime.com/">
+    <img src="https://wakatime.com/badge/user/Your_WakaTime_ID/badge.svg" alt="Total time coded since" />
+  </a>
+</div>
+
+---
+
+## 🤝 Connect with Me
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arvinmaroufi&style=for-the-badge&color=D95F72" alt="Profile views" />
