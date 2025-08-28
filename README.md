@@ -25,7 +25,8 @@
 
 ## 🤝 Connect & Collaborate
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fatem.jabbari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemehjabbari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mfatemehjabbari@gmail.com) 
+
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fatem.jabbari)[![Telegram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://t.me/Fatem_jabbari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatemehjabbari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mfatemehjabbari@gmail.com) 
 
 
 <br>
