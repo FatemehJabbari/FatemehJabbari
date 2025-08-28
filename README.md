@@ -23,7 +23,7 @@ My primary function is to transform abstract concepts into tangible, responsive,
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+## 📊 Real-time System Analytics
 
 <div align="center">
   <picture>
@@ -35,29 +35,26 @@ My primary function is to transform abstract concepts into tangible, responsive,
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" alt="Top Languages" style="margin: 10px;"/>
   </div>
   
-  <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=gruvbox&hide_border=true" alt="GitHub Streak Stats" style="margin: 10px;"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=gruvbox" alt="GitHub Trophies" style="margin: 10px;"/>
   </div>
-</div>
 
-<br>
+  <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=darkhub" alt="GitHub Trophies" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=onedark&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&theme=gruvbox&hide_border=true" alt="Activity Graph" />
 
----
-
-## ⏳ OPERATIONAL LOG
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&theme=react-dark&hide_border=true" alt="Latest Activity" />
+  <br>
+  
+  <a href="https://wakatime.com/">
+    <img src="https://wakatime.com/badge/user/Your_WakaTime_ID/badge.svg" alt="Total time coded since" />
+  </a>
 </div>
 
 ---
