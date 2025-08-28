@@ -1,51 +1,66 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Modern Code Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20there,%20I'm%20Arvin!&fontSize=70&animation=twinkling&fontColor=fff&desc=Front-End%20Developer%20|%20UI/UX%20Enthusiast&descAlign=70&descColor=lightblue" alt="Welcome Banner" />
 </div>
 
 <br>
 
-<h1 align="center">Hello, I'm a Front-End Developer 👋</h1>
-<p align="center">
-  Crafting beautiful and functional user experiences.
-</p>
+<h2 align="center">Crafting beautiful and performant web experiences. ✨</h2>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate **Front-End Developer** with a focus on creating stunning and intuitive web interfaces. My journey involves turning design concepts into reality using clean, maintainable, and modern code. I thrive on problem-solving and am always eager to learn new technologies to build robust and scalable applications.
+I'm a passionate **Front-End Developer** who thrives on building intuitive, responsive, and visually stunning web applications. With a keen eye for design and a love for clean code, I transform complex ideas into seamless user experiences. I’m constantly exploring new technologies and design patterns to deliver modern, efficient, and impactful solutions.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💻 My Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,nodejs,tailwind,bootstrap,sass,git,github,figma,vscode" alt="My Tech Stack" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,sass,nodejs,npm,yarn,git,github,figma,ps,ai,xd,vscode,webstorm,vite" alt="My Tech Stack" />
+  </a>
 </p>
 
 ---
 
-## 📈 My GitHub Stats
+## 📊 My GitHub Journey
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arvinmaroufi/arvinmaroufi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arvinmaroufi/arvinmaroufi/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arvinmaroufi/arvinmaroufi/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-  ![](https://github-contributor-stats.vercel.app/api?username=arvinmaroufi&limit=5&theme=holi&combine_all_yearly_contributions=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&line_height=25" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&langs_count=6" alt="Top Languages" />
+  
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=onedom" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 ---
 
-## 🌐 Find Me Online
+## 🌱 Currently Learning & Exploring
+
+-   **Web3 Technologies:** Diving into decentralized applications and blockchain for front-end.
+-   **Advanced UI Animations:** Mastering libraries like GSAP for stunning web animations.
+-   **Performance Optimization:** Deep-diving into Lighthouse and Web Vitals to build blazing-fast websites.
+
+---
+
+## 🤝 Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/arvinmaroufi" target="_blank">
@@ -61,3 +76,5 @@ I’m a passionate **Front-End Developer** with a focus on creating stunning and
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+<br>
