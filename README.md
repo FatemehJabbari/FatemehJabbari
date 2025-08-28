@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1579546929940-1e5b8e906b3a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Purple Abstract Background" style="width:100%; height:auto; border-radius:12px;"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&pause=1000&color=9C8EF7&center=true&vCenter=true&width=500&lines=Greetings,+I'm+Arvin.;A+Web+Enthusiast.;Building+beautiful+interfaces." alt="Typing SVG" />
+  <img src="https://images.unsplash.com/photo-1549497040-7e04047a06ed?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dark Red Purple Abstract" style="width:100%; height:auto; border-radius:12px;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&pause=1000&color=BE0032&center=true&vCenter=true&width=500&lines=Greetings,+I'm+Arvin.;A+Web+Enthusiast.;Building+beautiful+interfaces." alt="Typing SVG" />
 </div>
 
 <br>
@@ -37,19 +37,19 @@ I am a passionate **Front-End Engineer** dedicated to building immersive and int
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </div>
   
   <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
   </div>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=dracula" alt="GitHub Trophies" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=redflat" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
