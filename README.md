@@ -42,3 +42,16 @@
 
 <br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FatemehJabbari&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FatemehJabbari&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemehJabbari&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FatemehJabbari&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=FatemehJabbari&icon=7&color=1)](https://visitcount.itsvg.in)
+
+
