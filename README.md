@@ -1,20 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Arvin%20Maroufi&fontSize=90&animation=twinkling&fontColor=fff&desc=Front-End%20Engineer&descAlign=70&descColor=darkgray" alt="Header" />
+  <img src="https://images.unsplash.com/photo-1574384913221-a5f187a6c766?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Futuristic Circuit Board" style="width:100%; height:auto; border-radius:12px;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=>>>+Accessing+user+data...;>>>+Hello,+Arvin.;>>>+Initializing+interface...;>>>+Status:+Operational." alt="Typing SVG" />
 </div>
 
 <br>
 
-<h2 align="center">Building delightful experiences, one pixel at a time. 🎨</h2>
+<h3 align="center">SYNTHESIZING REALITY INTO FUNCTIONAL INTERFACES.</h3>
 
 ---
 
-## 🚀 About Me
+## 🚀 CORE DIRECTIVE: ABOUT
 
-I'm a dedicated **Front-End Engineer** with a passion for creating clean, elegant, and user-centric web applications. My work is a blend of aesthetics and functionality, driven by a commitment to writing high-quality, scalable code. I'm constantly learning and embracing new challenges to build the future of the web.
+My primary function is to transform abstract concepts into tangible, responsive, and visually compelling web experiences. As a **Front-End Engineer**, my core directives are clean code, optimal performance, and an intuitive user experience. I am always online, processing new data, and upgrading my skill matrix to stay ahead of the curve.
 
 ---
 
-## 💻 My Digital Toolkit
+## 💻 DIGITAL PROTOCOL STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,sass,nodejs,npm,yarn,git,github,figma,ps,ai,vscode,webstorm" alt="My Tech Stack" />
@@ -22,7 +23,7 @@ I'm a dedicated **Front-End Engineer** with a passion for creating clean, elegan
 
 ---
 
-## 📊 My GitHub Journey
+## 📊 SYSTEM ANALYTICS
 
 <div align="center">
   <picture>
@@ -36,42 +37,35 @@ I'm a dedicated **Front-End Engineer** with a passion for creating clean, elegan
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </div>
   
   <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=ocean_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="Top Languages" />
   </div>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=ocean_dark&hide_border=true" alt="GitHub Streak Stats" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=darkhub" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=onedark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-## ⏳ My Coding Activity
+## ⏳ OPERATIONAL LOG
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&theme=ocean_dark&hide_border=true" alt="Latest Activity" />
-</div>
-
-<div align="center">
-  <a href="https://wakatime.com/">
-    <img src="https://wakatime.com/badge/user/Your_WakaTime_ID/badge.svg" alt="Total time coded since" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&theme=react-dark&hide_border=true" alt="Latest Activity" />
 </div>
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 NEURAL NETWORK CONNECTION
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arvinmaroufi&style=for-the-badge&color=D95F72" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=arvinmaroufi&style=for-the-badge&color=brightgreen" alt="Profile views" />
   <a href="https://linkedin.com/in/arvinmaroufi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
