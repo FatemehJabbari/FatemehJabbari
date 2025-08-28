@@ -31,18 +31,18 @@
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://linkedin.com/in/fatemehjabbari" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&size=30" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/fatem.jabbari" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&size=30" alt="Instagram" />
   </a>
   <a href="https://t.me/Fatem_jabbari" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" />
+    <img src="https://skillicons.dev/icons?i=telegram&size=30" alt="Telegram" />
   </a>
   <a href="mailto:mfatemehjabbari@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail&size=30" alt="Email" />
   </a>
 </div>
 
