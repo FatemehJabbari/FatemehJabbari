@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20there,%20I'm%20Arvin!&fontSize=70&animation=twinkling&fontColor=fff&desc=Front-End%20Developer%20|%20UI/UX%20Enthusiast&descAlign=70&descColor=lightblue" alt="Welcome Banner" />
+  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8fHwxfB8fA%3D%3D" alt="Code Background" style="border-radius:10px;"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&width=450&lines=Hello, I'm Arvin!;A+Front-End+Developer;Let's+build+something+cool." alt="Typing SVG" />
 </div>
 
 <br>
 
-<h2 align="center">Crafting beautiful and performant web experiences. ✨</h2>
+<h2 align="center">Turning coffee into code and ideas into reality. ☕💻</h2>
 
 ---
 
@@ -24,6 +26,14 @@ I'm a passionate **Front-End Developer** who thrives on building intuitive, resp
 
 ---
 
+## 🚧 Currently Working On
+
+-   **Project X:** A new e-commerce platform built with **React** and **Next.js** for high performance.
+-   **Open-Source Contribution:** Enhancing a popular utility library on GitHub.
+-   **UI/UX Case Study:** Designing a mobile-first UI for a fintech application using **Figma**.
+
+---
+
 ## 📊 My GitHub Journey
 
 <br>
@@ -37,32 +47,24 @@ I'm a passionate **Front-End Developer** who thrives on building intuitive, resp
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&line_height=25" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&line_height=25" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=false&langs_count=6" alt="Top Languages" />
   
-  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=onedom" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=onedark" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 ---
 
-## 🌱 Currently Learning & Exploring
-
--   **Web3 Technologies:** Diving into decentralized applications and blockchain for front-end.
--   **Advanced UI Animations:** Mastering libraries like GSAP for stunning web animations.
--   **Performance Optimization:** Deep-diving into Lighthouse and Web Vitals to build blazing-fast websites.
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arvinmaroufi&style=for-the-badge&color=brightgreen" alt="Profile views" />
+
   <a href="https://linkedin.com/in/arvinmaroufi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -76,5 +78,3 @@ I'm a passionate **Front-End Developer** who thrives on building intuitive, resp
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<br>
