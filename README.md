@@ -1,82 +1,58 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1549497040-7e04047a06ed?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Front-End Development Banner" />
+  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Modern Code Banner" />
 </div>
 
----
+<br>
 
-## 💫 About Me
-👨‍💻 Front-End Developer & UI/UX Designer<br>
-🚀 Building beautiful, responsive, and user-friendly web interfaces.<br>
-📚 Specializing in HTML, CSS, and JavaScript with a focus on modern frameworks.<br>
-🎨 Passionate about clean code, attention to detail, and creating seamless user experiences.<br>
-🔧 Tech Stack: HTML, CSS, JavaScript, React, Tailwind CSS, & Figma.<br>
-🌱 Continuously exploring new technologies and design trends to stay ahead of the curve.
+<h1 align="center">Hello, I'm a Front-End Developer 👋</h1>
+<p align="center">
+  Crafting beautiful and functional user experiences.
+</p>
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/arvinmaroufi.ir)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arvinmaroufi_ir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arvinmaroufi)
+## 🚀 About Me
+
+I’m a passionate **Front-End Developer** with a focus on creating stunning and intuitive web interfaces. My journey involves turning design concepts into reality using clean, maintainable, and modern code. I thrive on problem-solving and am always eager to learn new technologies to build robust and scalable applications.
 
 ---
 
-## ⚙️ Skills & Tools
+## 🛠️ Tech Stack & Tools
 
-### 💻 Languages & Markup
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🎨 Design & Collaboration
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/adobe%20xd-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
-
-### ⚒️ Development Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,nodejs,tailwind,bootstrap,sass,git,github,figma,vscode" alt="My Tech Stack" />
+</p>
 
 ---
 
-## 🌟 Soft Skills
-<table>
-  <thead>
-    <tr>
-      <th>Problem Solving</th>
-      <th>Team Collaboration</th>
-      <th>Communication</th>
-      <th>Attention to Detail</th>
-      <th>Creative Thinking</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr align="center">
-      <td>✔️</td>
-      <td>✔️</td>
-      <td>✔️</td>
-      <td>✔️</td>
-      <td>✔️</td>
-    </tr>
-  </tbody>
-</table>
+## 📈 My GitHub Stats
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=onedark" alt="arvinmaroufi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=onedark" alt="Top Languages" />
+</div>
+
+<br>
 
 ---
 
-## 💬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arvinmaroufi)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvinmaroufi.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/arvinmaroufi.ir)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arvin_maroufi)
+## 🌐 Find Me
 
----
+<div align="center">
+  <a href="https://linkedin.com/in/arvinmaroufi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/arvinmaroufi.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/arvinmaroufi_ir" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:arvinmaroufi.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arvinmaroufi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br>
