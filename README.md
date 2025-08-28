@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1574384913221-a5f187a6c766?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Futuristic Circuit Board" style="width:100%; height:auto; border-radius:12px;"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=>>>+Accessing+user+data...;>>>+Hello,+Arvin.;>>>+Initializing+interface...;>>>+Status:+Operational." alt="Typing SVG" />
+  <img src="https://images.unsplash.com/photo-1616763355548-ef02035978f8?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Clean Abstract Lines" style="width:100%; height:auto; border-radius:12px;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome,+I'm+Arvin.;A+Passionate+Developer.;Crafting+Digital+Experiences." alt="Typing SVG" />
 </div>
 
 <br>
 
-<h3 align="center">SYNTHESIZING REALITY INTO FUNCTIONAL INTERFACES.</h3>
+<h3 align="center">Turning innovative ideas into beautiful and functional code.</h3>
 
 ---
 
-## 🚀 CORE DIRECTIVE: ABOUT
+## 🚀 About My Journey
 
-My primary function is to transform abstract concepts into tangible, responsive, and visually compelling web experiences. As a **Front-End Engineer**, my core directives are clean code, optimal performance, and an intuitive user experience. I am always online, processing new data, and upgrading my skill matrix to stay ahead of the curve.
+I am a dedicated **Front-End Engineer** passionate about building elegant, responsive, and intuitive web applications. My expertise lies in translating complex UI/UX designs into high-performance, maintainable code. I am committed to clean architecture, performance optimization, and staying at the forefront of modern web technologies to deliver impactful and user-centric solutions.
 
 ---
 
-## 💻 DIGITAL PROTOCOL STACK
+## 💻 My Digital Toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,sass,nodejs,npm,yarn,git,github,figma,ps,ai,vscode,webstorm" alt="My Tech Stack" />
@@ -23,7 +23,7 @@ My primary function is to transform abstract concepts into tangible, responsive,
 
 ---
 
-## 📊 Real-time System Analytics
+## 📊 Performance & Analytics
 
 <div align="center">
   <picture>
@@ -37,18 +37,18 @@ My primary function is to transform abstract concepts into tangible, responsive,
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" alt="Top Languages" style="margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Top Languages" style="margin: 10px;"/>
   </div>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=gruvbox&hide_border=true" alt="GitHub Streak Stats" style="margin: 10px;"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=gruvbox" alt="GitHub Trophies" style="margin: 10px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=nord&hide_border=true" alt="GitHub Streak Stats" style="margin: 10px;"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=nord" alt="GitHub Trophies" style="margin: 10px;"/>
   </div>
 
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&theme=gruvbox&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&theme=nord&hide_border=true" alt="Activity Graph" />
 
   <br>
   
@@ -59,10 +59,10 @@ My primary function is to transform abstract concepts into tangible, responsive,
 
 ---
 
-## 🤝 NEURAL NETWORK CONNECTION
+## 🤝 Connect & Collaborate
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arvinmaroufi&style=for-the-badge&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=arvinmaroufi&style=for-the-badge&color=555" alt="Profile views" />
   <a href="https://linkedin.com/in/arvinmaroufi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
