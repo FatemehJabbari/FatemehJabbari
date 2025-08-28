@@ -1,78 +1,76 @@
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1616763355548-ef02035978f8?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Clean Abstract Lines" style="width:100%; height:auto; border-radius:12px;"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome,+I'm+Arvin.;A+Passionate+Developer.;Crafting+Digital+Experiences." alt="Typing SVG" />
-</div>
+# 🎨 Welcome to My GitHub Profile
 
-<br>
+![Banner](https://via.placeholder.com/1200x300?text=Fatemeh+Jabbari+%7C+Front-End+Developer)
 
-<h3 align="center">Turning innovative ideas into beautiful and functional code.</h3>
+## 👋 About Me
+Hi, I’m **Fatemeh Jabbari**, a Front-End Developer passionate about building **modern, responsive, and accessible web applications**. I specialize in **HTML, CSS, JavaScript, and Figma**, with a focus on **clean code, reusable components, and excellent UX**.
 
----
-
-## 🚀 About My Journey
-
-I am a dedicated **Front-End Engineer** passionate about building elegant, responsive, and intuitive web applications. My expertise lies in translating complex UI/UX designs into high-performance, maintainable code. I am committed to clean architecture, performance optimization, and staying at the forefront of modern web technologies to deliver impactful and user-centric solutions.
+🌱 Always learning and exploring new technologies, I enjoy contributing to **open-source projects** and collaborating on **innovative web solutions**.
 
 ---
 
-## 💻 My Digital Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,sass,nodejs,npm,yarn,git,github,figma,ps,ai,vscode,webstorm" alt="My Tech Stack" />
-</p>
+## 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript
+- **Design & Prototyping:** Figma
+- **Other:** Responsive Design, Accessibility (A11y), SEO Best Practices
 
 ---
 
-## 📊 Performance & Analytics
+## 🚀 Featured Projects
+> Replace the links with your own projects
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arvinmaroufi/arvinmaroufi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arvinmaroufi/arvinmaroufi/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arvinmaroufi/arvinmaroufi/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
+- **[Project One](https://github.com/username/project-one)** — Modern UI components library
+- **[Project Two](https://github.com/username/project-two)** — Responsive landing page starter
+- **[Project Three](https://github.com/username/project-three)** — Accessibility-focused playground
 
-<br>
+---
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Top Languages" style="margin: 10px;"/>
+## 📬 Contact
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfatemehjabbari@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fatem_jabbari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemehjabbari)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatem.jabbari)
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+
+---
+
+## 🏷️ Badges
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+---
+
+## 💡 Coding Example
+```html
+<article class="card" aria-labelledby="card-title">
+  <img class="card__image" src="/img/cover.jpg" alt="Cover Image" />
+  <div class="card__body">
+    <h3 id="card-title" class="card__title">Card Title</h3>
+    <p class="card__text">Short description about this card.</p>
+    <a class="card__action" href="#">Read More</a>
   </div>
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=nord&hide_border=true" alt="GitHub Streak Stats" style="margin: 10px;"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=nord" alt="GitHub Trophies" style="margin: 10px;"/>
-  </div>
+</article>
+```
 
-  <br>
+```css
+.card { display: grid; gap: 1rem; border: 1px solid #eee; border-radius: 12px; padding: 1rem; }
+.card__image { width: 100%; height: auto; border-radius: 8px; }
+.card__action { display: inline-block; padding: 0.6rem 1rem; border-radius: 8px; text-decoration: none; }
+@media (min-width:768px) { .card { grid-template-columns: 180px 1fr; align-items: center; } }
+```
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&theme=nord&hide_border=true" alt="Activity Graph" />
-
-  <br>
-  
-  <a href="https://wakatime.com/">
-    <img src="https://wakatime.com/badge/user/Your_WakaTime_ID/badge.svg" alt="Total time coded since" />
-  </a>
-</div>
-
----
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arvinmaroufi&style=for-the-badge&color=555" alt="Profile views" />
-  <a href="https://linkedin.com/in/arvinmaroufi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/arvinmaroufi.ir" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://t.me/arvinmaroufi_ir" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:arvinmaroufi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+```js
+const links = document.querySelectorAll('.card__action');
+links.forEach(a => a.addEventListener('click', e => {
+  e.preventDefault();
+  alert('Hi from clean JS!');
+}));
+```
