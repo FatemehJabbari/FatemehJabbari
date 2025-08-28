@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1549497040-7e04047a06ed?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Abstract Dark Lines" style="width:100%; height:auto; border-radius:12px;"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&pause=1000&color=BE0032&center=true&vCenter=true&width=500&lines=Welcome,+I'm+Arvin.;Crafting+Beautiful+UIs.;Fueled+by+Passion." alt="Typing SVG" />
+  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8fHwxfB8fA%3D%3D" alt="Abstract Dark Blue" style="width:100%; height:auto; border-radius:12px;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome,+I'm+Arvin.;Crafting+Beautiful+UIs.;Fueled+by+Passion." alt="Typing SVG" />
 </div>
 
 <br>
@@ -37,18 +37,18 @@ I am a passionate **Front-End Engineer** dedicated to building elegant, responsi
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" style="margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=ocean_dark&hide_border=true&langs_count=6" alt="Top Languages" style="margin: 10px;"/>
   </div>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=dracula&hide_border=true" alt="GitHub Streak Stats" style="margin: 10px;"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=dracula" alt="GitHub Trophies" style="margin: 10px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=ocean_dark&hide_border=true" alt="GitHub Streak Stats" style="margin: 10px;"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=onedark" alt="GitHub Trophies" style="margin: 10px;"/>
   </div>
 
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&theme=dracula&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&theme=ocean_dark&hide_border=true" alt="Activity Graph" />
 
   <br>
   
