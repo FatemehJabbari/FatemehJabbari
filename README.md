@@ -1,30 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20there,%20I'm%20Arvin!&fontSize=70&animation=twinkling&fontColor=fff&desc=Front-End%20Developer%20|%20UI/UX%20Enthusiast&descAlign=70&descColor=lightblue" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=180&section=header&text=Arvin%20Maroufi&fontAlign=center&fontSize=80&desc=Front-End%20Engineer&descAlign=70&descSize=30&animation=twinkling&fontColor=FFFFFF" alt="Header" />
 </div>
 
 <br>
 
-<h2 align="center">Crafting beautiful and performant web experiences. ✨</h2>
+<h2 align="center">A passion for building elegant and scalable web interfaces.</h2>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Front-End Developer** who thrives on building intuitive, responsive, and visually stunning web applications. With a keen eye for design and a love for clean code, I transform complex ideas into seamless user experiences. I’m constantly exploring new technologies and design patterns to deliver modern, efficient, and impactful solutions.
+I am a dedicated **Front-End Engineer** with a strong focus on creating pixel-perfect, responsive, and intuitive web applications. My expertise lies in translating complex UI/UX designs into high-performance, maintainable code. I am passionate about clean architecture, performance optimization, and staying at the forefront of modern web technologies.
 
 ---
 
-## 💻 My Core Stack
+## 🛠️ My Professional Toolkit
 
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,sass,nodejs,npm,yarn,git,github,figma,ps,ai,xd,vscode,webstorm,vite" alt="My Tech Stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,sass,nodejs,npm,yarn,git,github,figma,ps,ai,vscode" alt="My Tech Stack" />
 </p>
 
 ---
 
-## 📊 My GitHub Journey
+## 📈 My GitHub Analytics
 
 <br>
 
@@ -36,33 +34,36 @@ I'm a passionate **Front-End Developer** who thrives on building intuitive, resp
   </picture>
 
   <br>
+  
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 300px; margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </div>
+    
+    <div style="flex: 1; min-width: 300px; margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
+    </div>
+  </div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&line_height=25" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&langs_count=6" alt="Top Languages" />
-  
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinmaroufi&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=onedom" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=darkhub" alt="GitHub Trophies" />
 </div>
-
-<br>
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 💻 Latest Activity
 
--   **Web3 Technologies:** Diving into decentralized applications and blockchain for front-end.
--   **Advanced UI Animations:** Mastering libraries like GSAP for stunning web animations.
--   **Performance Optimization:** Deep-diving into Lighthouse and Web Vitals to build blazing-fast websites.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&theme=dracula&hide_border=true&bg_color=282a36" alt="Latest Activity" />
 
 ---
 
 ## 🤝 Connect with Me
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arvinmaroufi&style=for-the-badge&color=brightgreen" alt="Profile views" />
   <a href="https://linkedin.com/in/arvinmaroufi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -76,5 +77,3 @@ I'm a passionate **Front-End Developer** who thrives on building intuitive, resp
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<br>
