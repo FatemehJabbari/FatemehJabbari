@@ -3,16 +3,19 @@
 ![Banner](https://via.placeholder.com/1200x300?text=Fatemeh+Jabbari+%7C+Front-End+Developer)
 
 ## 👋 About Me
-Hi, I’m **Fatemeh Jabbari**, a Front-End Developer passionate about building **modern, responsive, and accessible web applications**. I specialize in **HTML, CSS, JavaScript, and Figma**, with a focus on **clean code, reusable components, and excellent UX**.
+Hi, I’m **Fatemeh Jabbari**, a Front-End Developer passionate about building **modern, responsive, and accessible web applications**. I specialize in **HTML, CSS, JavaScript, and Figma**, focusing on **clean code, reusable components, and excellent UX**.
 
 🌱 Always learning and exploring new technologies, I enjoy contributing to **open-source projects** and collaborating on **innovative web solutions**.
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** HTML, CSS, JavaScript
-- **Design & Prototyping:** Figma
-- **Other:** Responsive Design, Accessibility (A11y), SEO Best Practices
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</div>
 
 ---
 
@@ -37,14 +40,6 @@ Hi, I’m **Fatemeh Jabbari**, a Front-End Developer passionate about building *
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 ![Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
-
----
-
-## 🏷️ Badges
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
