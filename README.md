@@ -23,7 +23,45 @@
 
 ---
 
+## 📊 Performance & Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FatemehJabbari&theme=dracula&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FatemehJabbari/FatemehJabbari/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FatemehJabbari/FatemehJabbari/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FatemehJabbari/FatemehJabbari/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<br>
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=FatemehJabbari&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatemehJabbari&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" style="margin: 10px;"/>
+  </div>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatemehJabbari&theme=dracula&hide_border=true" alt="GitHub Streak Stats" style="margin: 10px;"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=FatemehJabbari&theme=dracula" alt="GitHub Trophies" style="margin: 10px;"/>
+  </div>
+</div>
+
+---
+
 ## 🤝 Connect & Collaborate
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FatemehJabbari&style=for-the-badge&color=555" alt="Profile views" />
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://linkedin.com/in/fatemehjabbari" target="_blank">
@@ -39,19 +77,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FatemehJabbari&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FatemehJabbari&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemehJabbari&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FatemehJabbari&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=FatemehJabbari&icon=7&color=1)](https://visitcount.itsvg.in)
-
-
