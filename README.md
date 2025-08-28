@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=180&section=header&text=Arvin%20Maroufi&fontAlign=center&fontSize=80&desc=Front-End%20Engineer&descAlign=70&descSize=30&animation=twinkling&fontColor=FFFFFF" alt="Header" />
+  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8fHwxfB8fA%3D%3D" alt="Code Background" style="border-radius:10px;"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&width=450&lines=Hello,+I'm+Arvin!;A+Front-End+Engineer;I+build+pixel-perfect+UIs." alt="Typing SVG" />
 </div>
 
 <br>
