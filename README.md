@@ -36,8 +36,9 @@ I’m a passionate **Front-End Developer** with a focus on creating stunning and
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=onedark" alt="arvinmaroufi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=onedark" alt="Top Languages" />
+  ![](https://github-contributor-stats.vercel.app/api?username=arvinmaroufi&limit=5&theme=holi&combine_all_yearly_contributions=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 <br>
