@@ -4,23 +4,23 @@
 
 <br>
 
-<h1 align="center">Hello, I'm a Front-End Developer 👋</h1>
+<h1 align="center">Hey there! I'm a Front-End Developer 👋</h1>
 <p align="center">
-  Crafting beautiful and functional user experiences.
+  I transform ideas into beautiful, user-friendly digital experiences.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate **Front-End Developer** with a focus on creating stunning and intuitive web interfaces. My journey involves turning design concepts into reality using clean, maintainable, and modern code. I thrive on problem-solving and am always eager to learn new technologies to build robust and scalable applications.
+I'm a passionate **Front-End Developer** who loves building elegant and responsive web applications. I specialize in turning complex design concepts into clean, functional code. My goal is to create seamless user journeys through great design and solid code. I'm always up for a challenge and continuously learning to improve my craft.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,nodejs,tailwind,bootstrap,sass,git,github,figma,vscode" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass,git,github,figma,ps,vscode" alt="My Tech Stack" />
 </p>
 
 ---
@@ -30,15 +30,24 @@ I’m a passionate **Front-End Developer** with a focus on creating stunning and
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=onedark" alt="arvinmaroufi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=onedark" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=arvinmaroufi&show_icons=true&theme=nord&include_all_commits=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=arvinmaroufi&theme=onedark" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 ---
 
-## 🌐 Find Me
+## 🌐 Find Me Online
 
 <div align="center">
   <a href="https://linkedin.com/in/arvinmaroufi" target="_blank">
