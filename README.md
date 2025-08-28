@@ -26,17 +26,23 @@
 ## 🤝 Connect & Collaborate
 
 <div align="center">
-  <a style="border-radus:5px" href="https://linkedin.com/in/fatemehjabbari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://komarev.com/ghpvc/?username=FatemehJabbari&style=for-the-badge&color=555" alt="Profile views" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/fatemehjabbari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/fatem.jabbari" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://t.me/Fatem_jabbari" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:mfatemehjabbari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
