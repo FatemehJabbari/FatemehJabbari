@@ -1,8 +1,8 @@
 <div align="center">
   <img src="Banner.png" alt="Abstract Dark Lines" style="width:100%; height:auto; border-radius:12px;"/>
   
-  <h1 align="center" style="font-family: JetBrains Mono; color: #ff4000ff;">Fatemeh Jabbari</h1>
-  <h3 align="center" style="font-family: JetBrains Mono; color: #dfcdcdff;">Front-End Developer | Passionate about crafting user-centric experiences.</h3>
+  <h1 align="center" style="font-family: JetBrains Mono; color: #00BFFF;">Fatemeh Jabbari</h1>
+  <h3 align="center" style="font-family: JetBrains Mono; color: #F0F0F0;">Front-End Developer | Passionate about crafting user-centric experiences.</h3>
 </div>
 
 <br>
@@ -11,7 +11,9 @@
 
 ## 💫 About Me
 
-👋 Hi, I’m **Fatemeh Jabbari**, a Front-End Developer passionate about crafting modern, responsive, and accessible web applications. I specialize in HTML, CSS, and JavaScript (ES6+), with a strong focus on clean code, modular components, and user-centered design. My approach is guided by performance optimization, UX best practices, and attention to accessibility standards. 🌱 Constantly learning and exploring new technologies, I’m open to collaborations on innovative projects and contributions to open-source communities.
+👋 Hi, I’m **Fatemeh Jabbari**, a Front-End Developer passionate about crafting modern, responsive, and accessible web applications.
+👩‍💻I specialize in HTML, CSS, and JavaScript (ES6+), with a strong focus on clean code, modular components, and user-centered design. My approach is guided by performance optimization, UX best practices, and attention to accessibility standards. 
+🌱 Constantly learning and exploring new technologies, I’m open to collaborations on innovative projects and contributions to open-source communities.
 
 ---
 
@@ -45,7 +47,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FatemehJabbari&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FatemehJabbari&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemehJabbari&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemehJabbari&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 ### 🔝 Top Contributed Repo
