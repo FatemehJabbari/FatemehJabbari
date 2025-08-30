@@ -11,8 +11,8 @@
 
 ## 💫 About Me
 
-👋 Hi, I’m **Fatemeh Jabbari**, a Front-End Developer passionate about crafting modern, responsive, and accessible web applications.
-👩‍💻I specialize in HTML, CSS, and JavaScript (ES6+), with a strong focus on clean code, modular components, and user-centered design. My approach is guided by performance optimization, UX best practices, and attention to accessibility standards. 
+👋 Hi, I’m **Fatemeh Jabbari**, a Front-End Developer passionate about crafting modern, responsive, and accessible web applications.<br>
+👩‍💻I specialize in HTML, CSS, and JavaScript (ES6+), with a strong focus on clean code, modular components, and user-centered design. My approach is guided by performance optimization, UX best practices, and attention to accessibility standards. <br>
 🌱 Constantly learning and exploring new technologies, I’m open to collaborations on innovative projects and contributions to open-source communities.
 
 ---
@@ -20,7 +20,7 @@
 ## 💻 My Digital Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,python,bootstrap,django,flutter,mysql" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,python,bootstrap,django" alt="My Tech Stack" />
 </p>
 
 ---
