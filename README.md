@@ -1,8 +1,8 @@
 <div align="center">
   <img src="Banner.png" alt="Abstract Dark Lines" style="width:100%; height:auto; border-radius:12px;"/>
   
-  <h1 align="center" style="font-family: JetBrains Mono; color: #00BFFF;">Fatemeh Jabbari</h1>
-  <h3 align="center" style="font-family: JetBrains Mono; color: #F0F0F0;">Front-End Developer | Passionate about crafting user-centric experiences.</h3>
+  <h1 align="center" style="font-family: JetBrains Mono; color: #ff4000ff;">Fatemeh Jabbari</h1>
+  <h3 align="center" style="font-family: JetBrains Mono; color: #dfcdcdff;">Front-End Developer | Passionate about crafting user-centric experiences.</h3>
 </div>
 
 <br>
